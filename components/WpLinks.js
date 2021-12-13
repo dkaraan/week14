@@ -21,12 +21,12 @@ const WpLinks = () => (
             <Link href="/">
                 <a style={styles.linkAnchor}>Home: SSR, no auth required</a>
             </Link>
-            <Link href="/wordpress/pages/18">
+            <Link href="/wordpress/18">
                 <a style={styles.linkAnchor}>
                     Buy a 2Spooky5Me
                 </a>
             </Link>
-            <Link href="/wordpress/pages/1">
+            <Link href="/wordpress/1">
                 <a style={styles.linkAnchor}>
                     Hello World Post
                 </a>
